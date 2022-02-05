@@ -1,6 +1,6 @@
 .carousel-container{
   display: flex;
-  vertical-align: auto;
+  vertical-align: middle;
   align-items: center;
   background-color: rgb(0, 0, 0);
   padding: 30px 0px 30px 0px;

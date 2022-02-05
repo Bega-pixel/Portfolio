@@ -5,19 +5,25 @@ const Footer = () => {
   return (
     <footer className="footer">
         <div className="footer-info">
-            <h2>name</h2>
-            <p>Adress</p>
+            <h3>Contact me!</h3>
+            <p>Based in Europe</p>
 
         </div>
 
         <div className="footer-contact">
-            <h3>Conntact</h3>
-            <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus enim recusandae consectetur asperiores praesentium autem iusto ab inventore aspernatur eveniet? Soluta sed voluptates quaerat iure pariatur iusto voluptatum quia quidem? </p>
+            <h3>More about me and currently working on!</h3>
+        <ul>
+          <li>I&#39;m interested in ...Front-End Web Development.</li>
+          <li>I&#39;m currently learning ...Freecodecamp! Front End Development- Libraries: jQuery, Sass, Redux, React.</li>
+          <li> Responsive Web Design- CSS grid, HTML5, Flexbox,Responsive web design.</li>
+          <li>JavaScript Algorithms and Data Structures- JavaScript, ES6,Debugging,Object Oriented Programming.</li>
+        </ul>
+
         </div>
         <div className="footer-sns">
             <div className="desing-by">
-                <a href="">
-                  <i className="fab fa-react"></i>
+                <a href="https://github.com/Bega-pixel/Portfolio">
+                  <i className="fab fa-react">Source code</i> 
                 </a> 
             </div>
             <div className="sns-links">
@@ -27,7 +33,7 @@ const Footer = () => {
                 <a href="https://github.com/Bega-pixel" target="_blank" rel="noreferrer">
                   <i className="fab fa-github"></i>
                 </a>
-                <a href="">
+                <a href="mailto:jonbega@protonmail.com">
                   <i className="fas fa-at" target="_blank" rel="noreferrer"></i>
                 </a>
             </div>

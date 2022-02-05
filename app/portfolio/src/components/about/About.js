@@ -20,7 +20,7 @@ const About = () => {
                and ability to meet tight deadlines.</p>   
         </div>
         <div>
-            <img className="about-img" src="https://res.cloudinary.com/dazypdtba/image/upload/v1643895317/portfolio/computer-gc1b778684_1280_sworb2.png" alt="about" />
+            <img className="about-img" src="https://res.cloudinary.com/dazypdtba/image/upload/v1644049340/portfolio/pexels-negative-space-169573_aem0b9.jpg" alt="about" />
         </div>
     </div>
   )

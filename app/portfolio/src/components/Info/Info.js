@@ -5,7 +5,14 @@ const Info = () => {
   return (
     <div className="info-container">
         <div className="info">
-            <h1>Let&#39;s create something amazing together!</h1>
+            <h3>More about me and currently working on!</h3>
+            
+        <ul>
+          <li>I&#39;m interested in ...Front-End Web Development.</li>
+          <li>I&#39;m currently learning ...Freecodecamp! Front End Development- Libraries: jQuery, Sass, Redux, React.</li>
+          <li> Responsive Web Design- CSS grid, HTML5, Flexbox,Responsive web design.</li>
+          <li>JavaScript Algorithms and Data Structures- JavaScript, ES6,Debugging,Object Oriented Programming.</li>
+        </ul>
             
         </div>
     </div>

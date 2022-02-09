@@ -14,29 +14,14 @@
    padding: 0px 100px 0px 100px;
 }
 
-.slide-container {
-  margin: auto;
+.carousel .slider-wrapper {
   width: 50%;
-  height: 95%;
   border-radius: 40px;
-  overflow: hidden;
-  position: relative;
-  cursor: pointer;
 }
 
 .carousel .slide .legend{
   background: rgba(0,0,0,0.2);
 }
-
-.carousel .thumbs {
-  display: flex;
-  justify-content: center;
-  
-}
-.thumbs{
-  border-radius: 40px;
-}
-
 
 @media only screen and (max-width: 960px) {
   .carousel-container {

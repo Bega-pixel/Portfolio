@@ -26,18 +26,19 @@ const slidesInfo = [
     alt: "Project 3",
     desc: "Project 3",
     href:"",
-  },
+  }
 ];
 
 const slides = slidesInfo.map((slide) => (
-  <a href={slide.href}>
+  
   <div className="slide-container" key={slide.id}>
+    <a href={slide.href}>
     <img id={slide.id} src={slide.src} alt={slide.alt} />
     <p className="legend">{slide.desc}</p>
+    </a>
     <div className="slide-desc">
     </div>
   </div>
-  </a>
 ));
 
 export default slides;

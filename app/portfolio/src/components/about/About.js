@@ -10,8 +10,6 @@ const About = () => {
                 genuinely like to Learn. I ́m currently looking for the right opportunity to help
                 me in a environment that will help me increase my progress in to a Full-stack
                 role.</p>
-            
-            
 
             <h3>Skills</h3> 
             <p>HTML, CSS, SASS, Javascript, JQuery, React, Express, Node.js, MongoDB

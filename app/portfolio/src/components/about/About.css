@@ -1,7 +1,7 @@
 .about-container {
     display: flex;
-    background-color: rgb(255, 255, 255);
-    color: rgb(0, 0, 0);
+    background-color: var(--white-color);
+    color: var(--black-color);
     height: 70vh;
     padding: 100px 0 100px 0;
 }

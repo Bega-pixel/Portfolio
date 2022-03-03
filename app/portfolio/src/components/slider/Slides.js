@@ -18,14 +18,6 @@ const slidesInfo = [
     alt: "Project 2",
     desc: "PetPortal",
     href:"https://pet-portal-web.herokuapp.com",
-  },
-  {
-    id:3,
-    src:
-      "https://res.cloudinary.com/dazypdtba/image/upload/v1644049748/portfolio/pexels-pixabay-248515_qtyphp.jpg",
-    alt: "Project 3",
-    desc: "Project 3",
-    href:"",
   }
 ];
 

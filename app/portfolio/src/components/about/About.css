@@ -4,7 +4,7 @@
     justify-content: center;
     background-color: var(--white-color);
     color: var(--black-color);
-    height: 60vh;
+    height: 50vh;
     padding: 100px 0 100px 0;
 }
 
@@ -34,7 +34,7 @@
     overflow: hidden;
 }
 
-@media only screen and (max-width: 1354px), screen and (max-height: 843px) {
+@media only screen and (max-width: 1354px), screen and (max-height: 981px) {
     .about-container{
         flex-direction: column;
         padding: 0;

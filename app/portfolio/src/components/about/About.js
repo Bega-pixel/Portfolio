@@ -6,7 +6,7 @@ const About = () => {
     <div className="about-container">
         <div className="about-desc">
             <h3>Hello</h3>
-            <p> Passionate coder. I work hard, I care about writing clean code and I
+            <p> Passionate coder. I work hard, care about writing clean code and I
                 genuinely like to Learn. I ́m currently looking for the right opportunity to help
                 me in a environment that will help me increase my progress in to a Full-stack
                 role.</p>

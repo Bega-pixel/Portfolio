@@ -11,7 +11,7 @@ const Info = () => {
           <li>I&#39;m interested in ...Front-End Web Development.</li>
           <li>Currently learning ...Freecodecamp! Front End Development- Libraries: jQuery, Sass, Redux, React.</li>
           <li> Also responsive Web Design- CSS grid, HTML5, Flexbox,Responsive web design.</li>
-          <li>And JavaScript Algorithms and Data Structures- JavaScript, ES6,Debugging,Object Oriented Programming.</li>
+          <li>And JavaScript Algorithms, Data Structures- JavaScript, ES6,Debugging,Object Oriented Programming.</li>
         </ul>
             
         </div>
